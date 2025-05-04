@@ -101,6 +101,8 @@ Note: For the final working model, refer to the instructions provided in the `Ed
 
 5. Power the device using an external power source (e.g., power bank).
 
-6. On your smartphone (connected to the same hotspot), open a browser and go to:
+6. On your smartphone, open a browser and go to `http://<first IP address shown in OpenMV>:8080`.
+   - Example: `http://192.168.43.123:8080`
+
 
 
