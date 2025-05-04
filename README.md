@@ -61,7 +61,7 @@ The final system:
 
 ---
 
-## 🔧 Requirements
+## Requirements
 
 - [Arduino Nicla Vision](https://store.arduino.cc/products/nicla-vision)  
 - Edge Impulse CLI or Studio  
