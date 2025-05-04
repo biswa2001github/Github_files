@@ -58,7 +58,7 @@ The final system:
 - Draws bounding boxes over the detected gesture
 - Displays the corresponding **translated text**
 
-*A video demonstration or GIF can be added here.*
+![Demo](media/gof_demo.gif)
 
 ---
 
