@@ -85,3 +85,22 @@ Note: For the final working model, refer to the instructions provided in the `Ed
 7. Show one of the supported hand signs to the camera  
 8. Observe live text translation output and bounding box detection overlay
 
+
+## Additional Deployment: Motion JPEG Streamer (Nicla Vision via Wi-Fi)
+
+1. Copy the following files to the Nicla Vision (running OpenMV firmware):
+   - `main.py`
+   - `labels.txt`
+   - `trained_model.tflite`
+
+2. Connect Nicla Vision to a laptop and open `main.py` using the OpenMV IDE.
+
+3. Run the script once while connected to a smartphone hotspot (Wi-Fi).
+
+4. After successful connection (IP printed in terminal), disconnect Nicla Vision from the laptop.
+
+5. Power the device using an external power source (e.g., power bank).
+
+6. On your smartphone (connected to the same hotspot), open a browser and go to:
+
+
