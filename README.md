@@ -17,7 +17,8 @@ The **Portable AI Sign-Language Translator** is a compact, offline, AI-powered s
 ### Data Collection  
 - Images captured using the Nicla Vision’s onboard camera  
 - Hand signs performed by team members in various lighting/background conditions  
-- Each image annotated with bounding boxes for object detection  
+- Each image annotated with bounding boxes for object detection
+- [Dataset Link](https://drive.google.com/file/d/1TB8K_ECHom2vD-sPCrrnw5WASi-BnePt/view?usp=sharing)
 
 ### Preprocessing  
 - Resized to **96x96** or **128x128** (depending on model)  
